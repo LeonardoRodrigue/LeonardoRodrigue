@@ -3,8 +3,8 @@
 
 <div>
   <a hef="https://github.com/LeonardoRodrigue">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoRodrigues&show_icons=true&theme=dark&include_all_comits=truecount_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRodrigues&layout=compact&theme=dark"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoRodrigue&show_icons=true&theme=dark&include_all_comits=truecount_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRodrigue&layout=compact&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
