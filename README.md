@@ -15,7 +15,6 @@
   <img align="center" alt="CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bs" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="MySQL" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>
   <br>
   
 </div>
@@ -26,3 +25,12 @@
   <a href = "mailto:leoreis20060314@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/leonardo-rodrigues-reis-lopes-591903243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+  ____        _       _     _ _        _   _             
+ |  _ \      (_)     | |   (_) |      | | (_)            
+ | |_) |_   _ _ _ __ | |__  _| |_ __ _| |_ _  ___  _ __  
+ |  _ <| | | | | '_ \| '_ \| | __/ _` | __| |/ _ \| '_ \ 
+ | |_) | |_| | | | | | | | | | || (_| | |_| | (_) | | | |
+ |____/ \__, |_|_| |_|_| |_|_|\__\__,_|\__|_|\___/|_| |_|
+         __/ |                                            
+        |___/                                             
