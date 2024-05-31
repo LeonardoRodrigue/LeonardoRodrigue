@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Seja+bem+vindo!;+Me+chamo+Leonardo+Rodrigues!;Desenvolvedor+de+Sistemas!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Seja+bem+vindo!;+Me+chamo+Leonardo+Rodrigues!;Desenvolvedor+de+Sistemas!)](https://git.io/typing-svg)
 
 ## Olá pessoal 🤝
 ## Seja bem vindo ao meu Git Hub 👋😁
